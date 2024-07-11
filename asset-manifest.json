@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/bulb-switch/static/css/main.8d57f60d.css",
+    "main.js": "/bulb-switch/static/js/main.906892e5.js",
+    "index.html": "/bulb-switch/index.html",
+    "main.8d57f60d.css.map": "/bulb-switch/static/css/main.8d57f60d.css.map",
+    "main.906892e5.js.map": "/bulb-switch/static/js/main.906892e5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8d57f60d.css",
+    "static/js/main.906892e5.js"
+  ]
+}
